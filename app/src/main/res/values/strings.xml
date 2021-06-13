@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Petvisor</string>
+
+    <string name="tv_your_profile">Your profile</string>
+
+    <string name="tv_medicine_name">Medicine name</string>
+    <string name="tv_medication_type">Medication type</string>
+    <string name="tv_medication_amount">Amount</string>
+    <string name="tv_medication_time">Medication time</string>
+
+    <string name="tv_medications">Medications</string>
+    <string name="tv_profile">Profile</string>
+    <string name="tv_firstname">First name:</string>
+    <string name="tv_lastname">Last name:</string>
+    <string name="tv_email">E-mail:</string>
+
+    <string name="tv_add_medication_title">Add Medication</string>
+    <string name="tv_add_medication_user_id">User ID</string>
+    <string name="btn_add_medication">Add</string>
+
+    <string name="delete_medication_dialog_title">Deletion Confirmation</string>
+    <string name="delete_medication_dialog_message">Are you sure want to delete this medication?</string>
+    <string name="delete_medication_dialog_btn_positive">Yes</string>
+    <string name="delete_medication_dialog_btn_negative">No</string>
+    <string name="delete_medication_dialog_success">Successfully deleted</string>
+
+    <string name="btn_logout">Log out</string>
+    <string name="logout_dialog_title">Log out confirmation</string>
+    <string name="logout_dialog_message">Are you sure want to log out from the system?</string>
+    <string name="logout_dialog_btn_positive">Yes</string>
+    <string name="logout_dialog_btn_negative">No</string>
+    <string name="logout_dialog_success">Successfully logged out</string>
+
+    <string name="hint_password">Password</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_lastname">Last name</string>
+    <string name="hint_firstname">First name</string>
+    <string name="btn_sign_in">Sign In</string>
+    <string name="tv_sign_up">Register</string>
+    <string name="tv_sign_in">Have an account? Sign in!</string>
+    <string name="btn_sign_up">Sign Up</string>
+</resources>
